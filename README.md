@@ -11,7 +11,7 @@ Things you may want to cover:
 
 * How to run the test suite
   - rspec spec/
-  - ou bundle exec rspec spec/
+  - or bundle exec rspec spec/
 
 * ...
 
